@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/2k24it12413430-sys/leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/2k24it12413430-sys/leetcode/tree/master/0338-counting-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/2k24it12413430-sys/leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Math
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2k24it12413430-sys/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/2k24it12413430-sys/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
