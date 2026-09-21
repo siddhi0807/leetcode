@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/2k24it12413430-sys/leetcode/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2k24it12413430-sys/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/2k24it12413430-sys/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/2k24it12413430-sys/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/2k24it12413430-sys/leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/2k24it12413430-sys/leetcode/tree/master/0338-counting-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/2k24it12413430-sys/leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/2k24it12413430-sys/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2k24it12413430-sys/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/2k24it12413430-sys/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/2k24it12413430-sys/leetcode/tree/master/0190-reverse-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/2k24it12413430-sys/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
