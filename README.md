@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2k24it12413430-sys/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/2k24it12413430-sys/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2k24it12413430-sys/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/2k24it12413430-sys/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/2k24it12413430-sys/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/2k24it12413430-sys/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/2k24it12413430-sys/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
