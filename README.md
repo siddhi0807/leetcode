@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/2k24it12413430-sys/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/2k24it12413430-sys/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/2k24it12413430-sys/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1470-shuffle-the-array](https://github.com/2k24it12413430-sys/leetcode/tree/master/1470-shuffle-the-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/2k24it12413430-sys/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Hash Table
 |  |
